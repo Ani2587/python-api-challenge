@@ -27,5 +27,6 @@ after running the code succefully, output folder should have folooing filrs:
 -For VacationPy,
 .  getting the data from cities.csv file created in Part 1 ,converting that into a Pandas DataFrame and analyzing it.
 •	 Generating a map showcasing individual points representing each city within the city_data_df DataFrame. 
-.  •	For each city, using the Geoapify API to find the first hotel located within 10,000 meters of the city coordinates.
+. For each city, using the Geoapify API to find the first hotel located within 10,000 meters of the city coordinates.
+
 
