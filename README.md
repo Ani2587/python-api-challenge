@@ -29,6 +29,3 @@ after running the code succefully, output folder should have folooing filrs:
 •	 Generating a map showcasing individual points representing each city within the city_data_df DataFrame. 
 .  •	For each city, using the Geoapify API to find the first hotel located within 10,000 meters of the city coordinates.
 
-![image](https://github.com/Ani2587/python-api-challenge/assets/17106097/6023fcbe-15d2-454d-bfbd-653104f76e1c)
-
-![image](https://github.com/Ani2587/python-api-challenge/assets/17106097/41a22713-0519-4835-9aed-372192133f60)
